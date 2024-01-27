@@ -13,7 +13,7 @@ const Container = Vue.createApp({
         { isActive: false, id: "#Projects", title: "Activity", linkId: "2" },
         { isActive: false, id: "#Somedia", title: "PPKD Jaktim", linkId: "3" },
       ],
-      backgrounds: [{ url: "assets/background-image/background.png" }],
+      backgrounds: [{ url: 'assets/background-image/background.jpg' }],
       postedBy: [
         {
           artistName: "user",
